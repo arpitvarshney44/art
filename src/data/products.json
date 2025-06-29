@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "Whimsical Wall Art",
+    "category": "art",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.7,
+    "description": "Brighten your space with this playful wall art piece.",
+    "bestseller": true,
+    "badge": "NEW ARRIVAL"
+  },
+  {
+    "id": 2,
+    "name": "Boho Cushion Cover",
+    "category": "home-decor",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.5,
+    "description": "Add a pop of color to your sofa with this boho cushion cover.",
+    "bestseller": true,
+    "badge": "FAST MOVING"
+  },
+  {
+    "id": 3,
+    "name": "Artistic Table Lamp",
+    "category": "home-decor",
+    "price": 1899,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.8,
+    "description": "A quirky lamp to light up your evenings.",
+    "bestseller": false
+  },
+  {
+    "id": 4,
+    "name": "Floral Notebook",
+    "category": "stationery",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.3,
+    "description": "Jot down your dreams in this floral notebook.",
+    "bestseller": false,
+    "badge": "NEW ARRIVAL"
+  },
+  {
+    "id": 5,
+    "name": "Gift Mug - Happy Vibes",
+    "category": "gifts",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.6,
+    "description": "Spread happy vibes with this colorful mug.",
+    "bestseller": true
+  },
+  {
+    "id": 6,
+    "name": "Abstract Canvas",
+    "category": "art",
+    "price": 1599,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.4,
+    "description": "A modern abstract canvas for your living room.",
+    "bestseller": false,
+    "badge": "FAST MOVING"
+  },
+  {
+    "id": 7,
+    "name": "Decorative Planter",
+    "category": "home-decor",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.2,
+    "description": "Bring home a touch of green with this cute planter.",
+    "bestseller": false
+  },
+  {
+    "id": 8,
+    "name": "Art Print Set",
+    "category": "art",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.9,
+    "description": "A set of 3 playful art prints for your gallery wall.",
+    "bestseller": true,
+    "badge": "NEW ARRIVAL"
+  },
+  {
+    "id": 9,
+    "name": "Gift Pouch",
+    "category": "gifts",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.1,
+    "description": "A colorful pouch for gifting or storage.",
+    "bestseller": false
+  },
+  {
+    "id": 10,
+    "name": "Patterned Throw Blanket",
+    "category": "home-decor",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.6,
+    "description": "Stay cozy with this patterned throw blanket.",
+    "bestseller": true,
+    "badge": "FAST MOVING"
+  },
+  {
+    "id": 11,
+    "name": "Stationery Set",
+    "category": "stationery",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.5,
+    "description": "A playful set of pens, pencils, and more!",
+    "bestseller": false
+  },
+  {
+    "id": 12,
+    "name": "Gift Card",
+    "category": "gifts",
+    "price": 1000,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=400&q=80",
+    "rating": 4.8,
+    "description": "Let them choose with an ArtistryNest gift card.",
+    "bestseller": false,
+    "badge": "NEW ARRIVAL"
+  }
+] 
